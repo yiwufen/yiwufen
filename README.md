@@ -7,7 +7,7 @@
 
 ### 🎯 What I'm Currently Working On
 
-- 🤖 **Learning-based Planning:** Research on scalable multi-goal path planning and heuristic priors for classical planners ($A^*$, RRT*). Focused on cross-scale generalization and breaking the $\mathcal{O}(N^2)$ search bottleneck. *(Papers currently under double-blind review)*
+- 🤖 **Learning-based Planning:** Research on scalable multi-goal path planning and heuristic priors for classical planners ($A^*$, RRT*). 
 - 🧠 **Agentic AI:** Designing autonomous exploration Agents with custom control flow — Phase-based state machines, MCP tool protocols, and auditable reasoning chains. Building a multi-Agent system where Graph Exploration serves as a heavy reasoning tool.
 
 ---
