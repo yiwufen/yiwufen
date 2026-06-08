@@ -15,7 +15,7 @@
 ### 🚀 Featured Open Source Projects
 
 - **[fin-trace](https://github.com/yiwufen/fin-trace)** — Graph exploration Agent with MCP. Custom Phase state machine (EXPLORING → FINALIZE) replaces standard ReAct. Event Thread reasoning with `ku_id` evidence anchors for end-to-end auditability. Deployed as standalone TS process, integrable by other Agent systems.
-- **[news](https://github.com/yiwufen/news)** — Financial Knowledge Graph RAG pipeline. Entity-Event bipartite graph with 10K+ entities and 20K+ events. Dual-recall (BM25 + FAISS) → Rerank → graph expansion → MCP service.
+- **[fin-graph](https://github.com/yiwufen/fin-graph)** — Financial Knowledge Graph RAG pipeline. Entity-Event bipartite graph with 10K+ entities and 20K+ events. Dual-recall (BM25 + FAISS) → Rerank → graph expansion → MCP service.
 
 ---
 
